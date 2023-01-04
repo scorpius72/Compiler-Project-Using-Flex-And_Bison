@@ -1,0 +1,47 @@
+
+
+Program completed
+
+
+This is a single line comment
+This is for Multiple line comment start
+Multiple Line comment End here
+New string type variable has been declared
+New Integer type variable has been declared
+New Double type variable has been declared
+Implicitly convert the value into real type and assign the value
+New Integer type variable has been declared
+New Integer type variable has been declared
+20
+The array is : 2 4 1 10 
+The array is : 1 2 4 10 
+The array is : 1 2 4 
+20
+20
+this is show
+The Double array is : 2.100000 5.120000 10.212300 3.100000 
+The Double array is : 2.100000 3.100000 5.120000 10.212300 
+The Double array is : 2.100000 3.100000 5.120000 
+The string array is: Hello This is  string 
+The array is : 1 2 4 123 
+The string array is: Hello This is  string hello i this is string and i am changed... 
+hello i this is string and i am changed...
+1233
+The Double array is : 2.100000 3.100000 3.121200 
+The string array is: changed This is  string hello i this is string and i am changed... 
+Condition in if block is true.
+Condition in if block is true.
+Condition already fulfilled.Ignoring elif block.
+Condition already fulfilled.Ignoring else block.
+Condition in if block is false.
+The inner block will iterate :11 times
+The inner block will iterate :6 times
+The expression given inside while is false
+Condition of current option doesn't match.
+Option matched.
+Condition already fulfilled.Ignoring default option.
+New Function Declared-
+New Function Declared-
+New Integer type variable has been declared
+New Integer type variable has been declared
+Function called Successfully.

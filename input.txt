@@ -1,0 +1,105 @@
+
+# welcome everyone  
+## This is a compiler which is developend by id number 1807072 
+    you are welcome here to try this beautifull system ##
+
+sVariable = "hello i this is string and i am changed..."
+iVariable = 97897
+fVariable = 123.2323
+fVariable = 123
+
+a = 10
+b = 20
+a = b
+
+show(a)
+
+arkjh :   INT [200]
+arrDouble :   DOUBLE[400]
+arrString: STRING[300]
+
+array : [] = {2,4,1,10}
+show(array)
+sort(array)
+show(array)
+array.pop_back()
+
+show ( array , b ,a, "this is show")
+
+doubleArray : [] = {2.1, 5.12, 10.2123, 3.1}
+
+show(doubleArray)
+sort(doubleArray)
+show(doubleArray)
+
+doubleArray.pop_back()
+
+show(doubleArray)
+charArray : [] = {"Hello", "This is ", "string"}
+show (charArray)
+
+array.append(123)
+show(array)
+
+charArray.append(sVariable)
+show(charArray)
+
+show(charArray[3])
+
+array[0] = 1 + 1232
+show(array[0])
+
+doubleArray[2] = 3.1212
+show(doubleArray)
+
+charArray[0] = "changed"
+show (charArray)
+
+check(1<=2) {
+   check (2<=3){
+
+   }
+}
+check_again (1<2) {
+
+}
+last {
+
+}
+
+again var in scope (1:12) {
+    check(1>2){
+        
+    }
+}
+
+again var in scope (1:12:2) {
+    
+}
+
+duration (6<5) {
+    
+}
+
+sequential_check (a) {
+    check_if (123) {
+        
+    }
+    check_if (20) {
+        
+    }
+    finally {
+
+    }
+}
+
+define add ( abc : INT , ijk: DOUBLE) => VOID {
+    a = 1
+}
+
+define sub ( i : INT , j: INT) => VOID {
+    a = 1
+}
+p = 1
+q = 2
+call sub (p , q)
